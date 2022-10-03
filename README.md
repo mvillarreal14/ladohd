@@ -2,7 +2,7 @@
 LADOHD is the anomaly detection framework presented in the paper Hunting for Insider Threats Using LSTM-based Anomaly Detection. This repo contains the utilized version of fast.ai deep learning library and a notebook with examples of how to run LADOHD.
   
 ## To install
-Follow steps in fastai folder as indicated by their authors.
+Follow steps in fastai folder as indicated by their authors. You might have to unzip the folder the filde fastai.zip within the folder fastai.
 
 ## A list of technologies used within the project
 * Python version: 3.6.1
